@@ -1,6 +1,6 @@
 {
-  "name": "Tetris",
-  "short_name": "Tetris",
+  "name": "TetrisForce",
+  "short_name": "TetrisYisus",
   "description": "Juego de Tetris para móvil, jugable sin conexión",
   "start_url": "./index.html",
   "scope": "./",
